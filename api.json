@@ -71,7 +71,7 @@
         {
             "id": 2,
             "author": "Fulano Detal",
-            "image": "",
+            "image": null,
             "content": "Agora tem pouca coisa aqui. Disse Fulano",
             "comments": [
                 {
@@ -107,7 +107,7 @@
         {
             "id": 4,
             "author": "Siclano Detal",
-            "image": "",
+            "image": null,
             "content": "Agora tem pouca coisa aqui. Disse Siclano",
             "comments": [
                 {
@@ -143,7 +143,7 @@
         {
             "id": 6,
             "author": "Delano Detal",
-            "image": "",
+            "image": null,
             "content": "Agora tem pouca coisa aqui. Disse Delano",
             "comments": [
                 {
