@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "github:typicode/json-server#v0"
+  },
+  "devDependencies": {
+    "json-server-auth": "^2.1.0"
   }
 }
