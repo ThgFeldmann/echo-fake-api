@@ -158,19 +158,5 @@
                 }
             ]
         }
-    ],
-    "login": [
-        {
-            "username": "Fulano Detal", 
-            "password": "SenhaFulano"
-        },
-        {
-            "username": "Siclano Detal", 
-            "password": "SenhaSiclano"
-        },
-        {
-            "username": "Delano Detal", 
-            "password": "SenhaDelano"
-        }
     ]
 }
