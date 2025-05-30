@@ -158,5 +158,25 @@
                 }
             ]
         }
+    ],
+    "login": [
+        {
+            "id": 12345, 
+            "username": "Fulano Detal", 
+            "password": "SenhaFulano", 
+            "email": "Fulano@email.com"
+        },
+        {
+            "id": 23456, 
+            "username": "Siclano Detal", 
+            "password": "SenhaSiclano", 
+            "email": "Siclano@email.com"
+        },
+        {
+            "id": 34567, 
+            "username": "Delano Detal", 
+            "password": "SenhaDelano", 
+            "email": "Delano@email.com"
+        }
     ]
 }
