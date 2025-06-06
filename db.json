@@ -1,6 +1,26 @@
 {
     "users": [
         {
+            "id": 1, 
+            "username": "admin", 
+            "password": "admin", 
+            "email": "admin@email.com",
+            "following": [
+                {
+                    "id": 12345,
+                    "username": "Fulano Detal"
+                },
+                {
+                    "id": 23456,
+                    "username": "Siclano Detal"
+                },
+                {
+                    "id": 34567,
+                    "username": "Delano Detal"
+                }
+            ]
+        },
+        {
             "id": 12345, 
             "username": "Fulano Detal", 
             "password": "SenhaFulano", 
@@ -13,6 +33,10 @@
                 {
                     "id": 34567,
                     "username": "Delano Detal"
+                },
+                {
+                    "id": 1,
+                    "username": "admin"
                 }
             ]
         },
@@ -29,6 +53,10 @@
                 {
                     "id": 12345,
                     "username": "Fulano Detal"
+                },
+                {
+                    "id": 1,
+                    "username": "admin"
                 }
             ]
         },
@@ -45,6 +73,10 @@
                 {
                     "id": 12345,
                     "username": "Fulano Detal"
+                },
+                {
+                    "id": 1,
+                    "username": "admin"
                 }
             ]
         }
