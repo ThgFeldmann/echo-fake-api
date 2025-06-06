@@ -5,7 +5,7 @@
             "username": "Fulano Detal", 
             "password": "SenhaFulano", 
             "email": "Fulano@email.com",
-            "friends": [
+            "following": [
                 {
                     "id": 23456,
                     "username": "Siclano Detal"
@@ -21,7 +21,7 @@
             "username": "Siclano Detal", 
             "password": "SenhaSiclano", 
             "email": "Siclano@email.com",
-            "friends": [
+            "following": [
                 {
                     "id": 34567,
                     "username": "Delano Detal"
@@ -37,7 +37,7 @@
             "username": "Delano Detal", 
             "password": "SenhaDelano", 
             "email": "Delano@email.com",
-            "friends": [
+            "following": [
                 {
                     "id": 23456,
                     "username": "Siclano Detal"
@@ -57,12 +57,12 @@
             "content": "Muita coisa aqui. Disse Fulano",
             "comments": [
                 {
-                    "id": 1,
+                    "commentId": 1,
                     "author": "Siclano Detal",
                     "content": "Comentário de Siclano"
                 },
                 {
-                    "id": 2,
+                    "commentId": 2,
                     "author": "Delano Detal",
                     "content": "Comentário de Delano"
                 }
@@ -75,12 +75,12 @@
             "content": "Agora tem pouca coisa aqui. Disse Fulano",
             "comments": [
                 {
-                    "id": 1,
+                    "commentId": 1,
                     "author": "Delano Detal",
                     "content": "Comentário de Delano"
                 },
                 {
-                    "id": 2,
+                    "commentId": 2,
                     "author": "Siclano Detal",
                     "content": "Comentário de Siclano"
                 }
@@ -93,12 +93,12 @@
             "content": "Muita coisa aqui. Disse Siclano",
             "comments": [
                 {
-                    "id": 1,
+                    "commentId": 1,
                     "author": "Delano Detal",
                     "content": "Comentário de Delano"
                 },
                 {
-                    "id": 2,
+                    "commentId": 2,
                     "author": "Fulano Detal",
                     "content": "Comentário de Fulano"
                 }
@@ -111,12 +111,12 @@
             "content": "Agora tem pouca coisa aqui. Disse Siclano",
             "comments": [
                 {
-                    "id": 1,
+                    "commentId": 1,
                     "author": "Fulano Detal",
                     "content": "Comentário de Fulano"
                 },
                 {
-                    "id": 2,
+                    "commentId": 2,
                     "author": "Delano Detal",
                     "content": "Comentário de Delano"
                 }
@@ -129,12 +129,12 @@
             "content": "Muita coisa aqui. Disse Delano",
             "comments": [
                 {
-                    "id": 1,
+                    "commentId": 1,
                     "author": "Fulano Detal",
                     "content": "Comentário de Fulano"
                 },
                 {
-                    "id": 2,
+                    "commentId": 2,
                     "author": "Siclano Detal",
                     "content": "Comentário de Siclano"
                 }
@@ -147,36 +147,16 @@
             "content": "Agora tem pouca coisa aqui. Disse Delano",
             "comments": [
                 {
-                    "id": 1,
+                    "commentId": 1,
                     "author": "Siclano Detal",
                     "content": "Comentário de Siclano"
                 },
                 {
-                    "id": 2,
+                    "commentId": 2,
                     "author": "Fulano Detal",
                     "content": "Comentário de Fulano"
                 }
             ]
-        }
-    ],
-    "login": [
-        {
-            "id": 12345, 
-            "username": "Fulano Detal", 
-            "password": "SenhaFulano", 
-            "email": "Fulano@email.com"
-        },
-        {
-            "id": 23456, 
-            "username": "Siclano Detal", 
-            "password": "SenhaSiclano", 
-            "email": "Siclano@email.com"
-        },
-        {
-            "id": 34567, 
-            "username": "Delano Detal", 
-            "password": "SenhaDelano", 
-            "email": "Delano@email.com"
         }
     ]
 }
