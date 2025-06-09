@@ -137,32 +137,39 @@
     ],
     "follows": [
         {
-            "userId": "1",
-            "followingId": "12345"
+            "caseId": 1,
+            "userId": 1,
+            "followingId": 12345
         },
         {
-            "userId": "1",
-            "followingId": "23456"
+            "caseId": 2,
+            "userId": 1,
+            "followingId": 23456
         },
         {
-            "userId": "1",
-            "followingId": "34567"
+            "caseId": 3,
+            "userId": 1,
+            "followingId": 34567
         },
         {
-            "userId": "12345",
-            "followingId": "23456"
+            "caseId": 4,
+            "userId": 12345,
+            "followingId": 23456
         },
         {
-            "userId": "34567",
-            "followingId": "12345"
+            "caseId": 5,
+            "userId": 34567,
+            "followingId": 12345
         },
         {
-            "userId": "12345",
-            "followingId": "34567"
+            "caseId": 6,
+            "userId": 12345,
+            "followingId": 34567
         },
         {
-            "userId": "23456",
-            "followingId": "34567"
+            "caseId": 7,
+            "userId": 23456,
+            "followingId": 34567
         }
     ]
 }
