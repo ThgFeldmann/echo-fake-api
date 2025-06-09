@@ -4,81 +4,25 @@
             "id": 1, 
             "username": "admin", 
             "password": "admin", 
-            "email": "admin@email.com",
-            "following": [
-                {
-                    "id": 12345,
-                    "username": "Fulano Detal"
-                },
-                {
-                    "id": 23456,
-                    "username": "Siclano Detal"
-                },
-                {
-                    "id": 34567,
-                    "username": "Delano Detal"
-                }
-            ]
+            "email": "admin@email.com"
         },
         {
             "id": 12345, 
             "username": "Fulano Detal", 
             "password": "SenhaFulano", 
-            "email": "Fulano@email.com",
-            "following": [
-                {
-                    "id": 23456,
-                    "username": "Siclano Detal"
-                },
-                {
-                    "id": 34567,
-                    "username": "Delano Detal"
-                },
-                {
-                    "id": 1,
-                    "username": "admin"
-                }
-            ]
+            "email": "Fulano@email.com"
         },
         { 
             "id": 23456, 
             "username": "Siclano Detal", 
             "password": "SenhaSiclano", 
-            "email": "Siclano@email.com",
-            "following": [
-                {
-                    "id": 34567,
-                    "username": "Delano Detal"
-                },
-                {
-                    "id": 12345,
-                    "username": "Fulano Detal"
-                },
-                {
-                    "id": 1,
-                    "username": "admin"
-                }
-            ]
+            "email": "Siclano@email.com"
         },
         { 
             "id": 34567, 
             "username": "Delano Detal", 
             "password": "SenhaDelano", 
-            "email": "Delano@email.com",
-            "following": [
-                {
-                    "id": 23456,
-                    "username": "Siclano Detal"
-                },
-                {
-                    "id": 12345,
-                    "username": "Fulano Detal"
-                },
-                {
-                    "id": 1,
-                    "username": "admin"
-                }
-            ]
+            "email": "Delano@email.com"
         }
     ],
     "posts": [
@@ -189,6 +133,36 @@
                     "content": "Comentário de Fulano"
                 }
             ]
+        }
+    ],
+    "follows": [
+        {
+            "userId": "1",
+            "followingId": "12345"
+        },
+        {
+            "userId": "1",
+            "followingId": "23456"
+        },
+        {
+            "userId": "1",
+            "followingId": "34567"
+        },
+        {
+            "userId": "12345",
+            "followingId": "23456"
+        },
+        {
+            "userId": "34567",
+            "followingId": "12345"
+        },
+        {
+            "userId": "12345",
+            "followingId": "34567"
+        },
+        {
+            "userId": "23456",
+            "followingId": "34567"
         }
     ]
 }
