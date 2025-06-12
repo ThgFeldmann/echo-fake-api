@@ -1,25 +1,25 @@
 {
     "users": [
         {
-            "id": 1, 
+            "id": 0, 
             "username": "admin", 
             "password": "admin", 
             "email": "admin@email.com"
         },
         {
-            "id": 12345, 
+            "id": 1, 
             "username": "Fulano Detal", 
             "password": "SenhaFulano", 
             "email": "Fulano@email.com"
         },
         { 
-            "id": 23456, 
+            "id": 2, 
             "username": "Siclano Detal", 
             "password": "SenhaSiclano", 
             "email": "Siclano@email.com"
         },
         { 
-            "id": 34567, 
+            "id": 3, 
             "username": "Delano Detal", 
             "password": "SenhaDelano", 
             "email": "Delano@email.com"
@@ -138,38 +138,38 @@
     "follows": [
         {
             "caseId": 1,
-            "userId": 1,
-            "followingId": 12345
+            "userId": 0,
+            "followingId": 1
         },
         {
             "caseId": 2,
-            "userId": 1,
-            "followingId": 23456
+            "userId": 0,
+            "followingId": 2
         },
         {
             "caseId": 3,
-            "userId": 1,
-            "followingId": 34567
+            "userId": 0,
+            "followingId": 3
         },
         {
             "caseId": 4,
-            "userId": 12345,
-            "followingId": 23456
+            "userId": 1,
+            "followingId": 2
         },
         {
             "caseId": 5,
-            "userId": 34567,
-            "followingId": 12345
+            "userId": 3,
+            "followingId": 1
         },
         {
             "caseId": 6,
-            "userId": 12345,
-            "followingId": 34567
+            "userId": 1,
+            "followingId": 3
         },
         {
             "caseId": 7,
-            "userId": 23456,
-            "followingId": 34567
+            "userId": 2,
+            "followingId": 3
         }
     ]
 }
