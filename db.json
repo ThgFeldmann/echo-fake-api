@@ -133,6 +133,13 @@
                     "content": "Comentário de Fulano"
                 }
             ]
+        },
+        {
+            "id": 7,
+            "author": "admin",
+            "image": null,
+            "content": "Este é um post do admin",
+            "comments": []
         }
     ],
     "follows": [
