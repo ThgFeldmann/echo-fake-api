@@ -29,17 +29,20 @@
         {
             "id": 1,
             "author": "Fulano Detal",
+            "authorId": 1,
             "image": "https://placehold.co/500x200",
             "content": "Muita coisa aqui. Disse Fulano",
             "comments": [
                 {
                     "commentId": 1,
                     "author": "Siclano Detal",
+                    "authorId": 2,
                     "content": "Comentário de Siclano"
                 },
                 {
                     "commentId": 2,
                     "author": "Delano Detal",
+                    "authorId": 3,
                     "content": "Comentário de Delano"
                 }
             ]
@@ -47,17 +50,20 @@
         {
             "id": 2,
             "author": "Fulano Detal",
+            "authorId": 1,
             "image": null,
             "content": "Agora tem pouca coisa aqui. Disse Fulano",
             "comments": [
                 {
                     "commentId": 1,
                     "author": "Delano Detal",
+                    "authorId": 3,
                     "content": "Comentário de Delano"
                 },
                 {
                     "commentId": 2,
                     "author": "Siclano Detal",
+                    "authorId": 2,
                     "content": "Comentário de Siclano"
                 }
             ]
@@ -65,17 +71,20 @@
         {
             "id": 3,
             "author": "Siclano Detal",
+            "authorId": 2,
             "image": "https://placehold.co/500x200",
             "content": "Muita coisa aqui. Disse Siclano",
             "comments": [
                 {
                     "commentId": 1,
                     "author": "Delano Detal",
+                    "authorId": 3,
                     "content": "Comentário de Delano"
                 },
                 {
                     "commentId": 2,
                     "author": "Fulano Detal",
+                    "authorId": 1,
                     "content": "Comentário de Fulano"
                 }
             ]
@@ -83,17 +92,20 @@
         {
             "id": 4,
             "author": "Siclano Detal",
+            "authorId": 2,
             "image": null,
             "content": "Agora tem pouca coisa aqui. Disse Siclano",
             "comments": [
                 {
                     "commentId": 1,
                     "author": "Fulano Detal",
+                    "authorId": 1,
                     "content": "Comentário de Fulano"
                 },
                 {
                     "commentId": 2,
                     "author": "Delano Detal",
+                    "authorId": 3,
                     "content": "Comentário de Delano"
                 }
             ]
@@ -101,17 +113,20 @@
         {
             "id": 5,
             "author": "Delano Detal",
+            "authorId": 3,
             "image": "https://placehold.co/500x200",
             "content": "Muita coisa aqui. Disse Delano",
             "comments": [
                 {
                     "commentId": 1,
                     "author": "Fulano Detal",
+                    "authorId": 1,
                     "content": "Comentário de Fulano"
                 },
                 {
                     "commentId": 2,
                     "author": "Siclano Detal",
+                    "authorId": 2,
                     "content": "Comentário de Siclano"
                 }
             ]
@@ -119,17 +134,20 @@
         {
             "id": 6,
             "author": "Delano Detal",
+            "authorId": 3,
             "image": null,
             "content": "Agora tem pouca coisa aqui. Disse Delano",
             "comments": [
                 {
                     "commentId": 1,
                     "author": "Siclano Detal",
+                    "authorId": 2,
                     "content": "Comentário de Siclano"
                 },
                 {
                     "commentId": 2,
                     "author": "Fulano Detal",
+                    "authorId": 1,
                     "content": "Comentário de Fulano"
                 }
             ]
@@ -137,6 +155,7 @@
         {
             "id": 7,
             "author": "admin",
+            "authorId": 0,
             "image": null,
             "content": "Este é um post do admin",
             "comments": []
