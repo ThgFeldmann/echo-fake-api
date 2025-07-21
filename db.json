@@ -141,7 +141,7 @@
             "content": "Comentário de Fulano"
         },
         {
-            "postId": 5,
+            "postId": 6,
             "commentId": 10,
             "authorId": 2,
             "author": "Siclano Detal",
@@ -150,16 +150,37 @@
         {
             "postId": 6,
             "commentId": 11,
-            "authorId": 2,
-            "author": "Siclano Detal",
-            "content": "Comentário de Siclano"
-        },
-        {
-            "postId": 6,
-            "commentId": 9,
             "authorId": 1,
             "author": "Fulano Detal",
             "content": "Comentário de Fulano"
+        },
+        {
+            "postId": 1,
+            "commentId": 12,
+            "authorId": 0,
+            "author": "admin",
+            "content": "o admin fez este comentário"
+        },
+        {
+            "postId": 1,
+            "commentId": 13,
+            "authorId": 2,
+            "author": "Siclano Detal",
+            "content": "Siclano respondeu o admin"
+        },
+        {
+            "postId": 3,
+            "commentId": 14,
+            "authorId": 0,
+            "author": "admin",
+            "content": "Comentário do Admin"
+        },
+        {
+            "postId": 2,
+            "commentId": 15,
+            "authorId": 3,
+            "author": "Delano Detal",
+            "content": "Comentário de Delano"
         }
     ],
     "follows": [
