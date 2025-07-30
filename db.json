@@ -79,105 +79,105 @@
     "comments": [
         {
             "postId": 1,
-            "commentId": 1,
+            "id": 1,
             "authorId": 2,
             "author": "Siclano Detal",
             "content": "Comentário de Siclano"
         },
         {
             "postId": 1,
-            "commentId": 2,
+            "id": 2,
             "authorId": 3,
             "author": "Delano Detal",
             "content": "Comentário de Delano"
         },
         {
             "postId": 2,
-            "commentId": 3,
+            "id": 3,
             "authorId": 3,
             "author": "Delano Detal",
             "content": "Comentário de Delano"
         },
         {
             "postId": 2,
-            "commentId": 4,
+            "id": 4,
             "authorId": 2,
             "author": "Siclano Detal",
             "content": "Comentário de Siclano"
         },
         {
             "postId": 3,
-            "commentId": 5,
+            "id": 5,
             "authorId": 3,
             "author": "Delano Detal",
             "content": "Comentário de Delano"
         },
         {
             "postId": 3,
-            "commentId": 6,
+            "id": 6,
             "authorId": 1,
             "author": "Fulano Detal",
             "content": "Comentário de Fulano"
         },
         {
             "postId": 4,
-            "commentId": 7,
+            "id": 7,
             "authorId": 1,
             "author": "Fulano Detal",
             "content": "Comentário de Fulano"
         },
         {
             "postId": 4,
-            "commentId": 8,
+            "id": 8,
             "authorId": 3,
             "author": "Delano Detal",
             "content": "Comentário de Delano"
         },
         {
             "postId": 5,
-            "commentId": 9,
+            "id": 9,
             "authorId": 1,
             "author": "Fulano Detal",
             "content": "Comentário de Fulano"
         },
         {
             "postId": 6,
-            "commentId": 10,
+            "id": 10,
             "authorId": 2,
             "author": "Siclano Detal",
             "content": "Comentário de Siclano"
         },
         {
             "postId": 6,
-            "commentId": 11,
+            "id": 11,
             "authorId": 1,
             "author": "Fulano Detal",
             "content": "Comentário de Fulano"
         },
         {
             "postId": 1,
-            "commentId": 12,
+            "id": 12,
             "authorId": 0,
             "author": "admin",
             "content": "o admin fez este comentário"
         },
         {
             "postId": 1,
-            "commentId": 13,
+            "id": 13,
             "authorId": 2,
             "author": "Siclano Detal",
             "content": "Siclano respondeu o admin"
         },
         {
             "postId": 3,
-            "commentId": 14,
+            "id": 14,
             "authorId": 0,
             "author": "admin",
             "content": "Comentário do Admin"
         },
         {
             "postId": 2,
-            "commentId": 15,
+            "id": 15,
             "authorId": 3,
             "author": "Delano Detal",
             "content": "Comentário de Delano"
@@ -185,37 +185,37 @@
     ],
     "follows": [
         {
-            "caseId": 1,
+            "id": 1,
             "userId": 0,
             "followingId": 1
         },
         {
-            "caseId": 2,
+            "id": 2,
             "userId": 0,
             "followingId": 2
         },
         {
-            "caseId": 3,
+            "id": 3,
             "userId": 0,
             "followingId": 3
         },
         {
-            "caseId": 4,
+            "id": 4,
             "userId": 1,
             "followingId": 2
         },
         {
-            "caseId": 5,
+            "id": 5,
             "userId": 3,
             "followingId": 1
         },
         {
-            "caseId": 6,
+            "id": 6,
             "userId": 1,
             "followingId": 3
         },
         {
-            "caseId": 7,
+            "id": 7,
             "userId": 2,
             "followingId": 3
         }
