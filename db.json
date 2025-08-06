@@ -30,49 +30,42 @@
             "id": 1,
             "author": "Fulano Detal",
             "authorId": 1,
-            "image": "https://placehold.co/500x200",
             "content": "Muita coisa aqui. Disse Fulano"
         },
         {
             "id": 2,
             "author": "Fulano Detal",
             "authorId": 1,
-            "image": null,
             "content": "Agora tem pouca coisa aqui. Disse Fulano"
         },
         {
             "id": 3,
             "author": "Siclano Detal",
             "authorId": 2,
-            "image": "https://placehold.co/500x200",
             "content": "Muita coisa aqui. Disse Siclano"
         },
         {
             "id": 4,
             "author": "Siclano Detal",
             "authorId": 2,
-            "image": null,
             "content": "Agora tem pouca coisa aqui. Disse Siclano"
         },
         {
             "id": 5,
             "author": "Delano Detal",
             "authorId": 3,
-            "image": "https://placehold.co/500x200",
             "content": "Muita coisa aqui. Disse Delano"
         },
         {
             "id": 6,
             "author": "Delano Detal",
             "authorId": 3,
-            "image": null,
             "content": "Agora tem pouca coisa aqui. Disse Delano"
         },
         {
             "id": 7,
             "author": "admin",
             "authorId": 0,
-            "image": null,
             "content": "Este é um post do admin"
         }
     ],
